@@ -21,7 +21,7 @@
 
 | Day | Staff Member | Time | Modality | Location |
 | --- | --- | --- | --- | --- |
-| Wednesday | Bilguuntur | 5p - 6p | In-person | TBD |
+| Wednesday | Bilguuntur | 5p - 6p | In-person | Tyler 053 |
 | Friday | John | 11a - 12p | In-person | Tyler 052 |
 
 
@@ -29,7 +29,7 @@
 
 | Day | Staff Member |  Time | Modality | Location |
 | --- | --- | --- |--- | --- |
-|Monday |   Marie, John, Bilguuntur, Matt H.|   3:00p - 4:45  | In-person | Tyler 055 |
+|Monday |   Marie, John, Bilguuntur, Matt H.|   3:00p - 4:45  | In-person | Engineering 045 |
 |Thursday |   Matt H., Matt K. |   3:30p - 5:15p| In-person | Engineering 045|
 
 ### Course Overview
