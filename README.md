@@ -21,7 +21,7 @@
 
 | Day | Staff Member | Time | Modality | Location |
 | --- | --- | --- | --- | --- |
-| Wednesday | Bilguuntur | 5p - 6p | In-person | Tyler 053 |
+| Wednesday | Bilguuntur | 6:15p - 7:15p | In-person | Tyler 053 |
 | Friday | John | 11a - 12p | In-person | Tyler 052 |
 
 
